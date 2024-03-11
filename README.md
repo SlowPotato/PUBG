@@ -4,4 +4,4 @@ In-game sense: 30
 
 FFP( FIRST PERSON): 25
 
-ALL SCOPE SENSE (Red Dot- 15x): 30
+ALL SCOPE SENSE (Red Dot - 15x): 30
